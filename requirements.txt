@@ -1,3 +1,4 @@
-python-opencv
+opencv-python
 pandas
 numpy
+streamlit
